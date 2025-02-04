@@ -35,7 +35,7 @@ To run the project locally, follow these steps:
 1️⃣ **Clone the repository:**  
 
 git clone https://github.com/Aditya-54/california-housing-regresssion-OLS.git
-cd california-housing-price-prediction
+
 
 Install dependencies:
 pip install -r requirements.txt
